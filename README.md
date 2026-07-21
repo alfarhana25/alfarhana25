@@ -1,4 +1,6 @@
-<div align="center"> <img src="./alfarhana25-profile-banner.svg" alt="Profile Banner" width="100%" /> </div> 
+<div align="center"> <img src="./alfarhana25-profile-banner.svg" alt="Profile Banner" width="100%" />
+
+
 #  About Me
 Hey, I’m **Al Farhana Siddique** 
 
