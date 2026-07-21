@@ -32,16 +32,6 @@ Hi, I'm **Al Farhana Siddique** — a Software Engineering student at the Univer
 
 ---
 
-##  Currently Learning
-
-
----
-
-##  Upcoming Projects
-
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=footer" />
 </div>
