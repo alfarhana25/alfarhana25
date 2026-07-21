@@ -3,7 +3,16 @@
 </div>
 
 #  About Me:
-Hi, I'm **Al Farhana Siddique** — a Software Engineering student at the University of Calgary. I enjoy building things with code and am always looking for new projects and challenges to grow my skills. In my free time you'll usually find me [hobbies/interests], and I'm also involved in the ZOO (Electrical and Software Engineering Students' Society) and the Schulich Space Rover Team.
+Hey, I’m **Al Farhana Siddique** 👋
+
+I’m a Software Engineering graduate from the University of Calgary who likes building practical projects, experimenting with new tools, and spending way too much time figuring out why something is not working.
+
+I enjoy digging through unfamiliar code, tracking down bugs, and improving systems once I understand how all the pieces fit together. This profile is where I share some of the projects, experiments, and things I’ve worked on along the way.
+
+I’ve also been involved with **ZOO**, the Electrical and Software Engineering Students’ Society, and the **Schulich Space Rover Team**.
+
+Outside of coding, I’m usually baking, taking care of my plants, listening to crime podcasts, or hiking during Calgary’s very short summer.
+
 
 ---
 
