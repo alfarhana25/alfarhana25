@@ -2,8 +2,8 @@
  
 </div>
 
-#  About Me:
-Hey, I’m **Al Farhana Siddique** 👋
+#  About Me
+Hey, I’m **Al Farhana Siddique** 
 
 I’m a Software Engineering graduate from the University of Calgary who likes building practical projects, experimenting with new tools, and spending way too much time figuring out why something is not working.
 
@@ -16,7 +16,7 @@ Outside of coding, I’m usually baking, taking care of my plants, listening to 
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
