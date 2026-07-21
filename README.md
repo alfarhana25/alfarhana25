@@ -40,24 +40,7 @@ Outside of coding, I’m usually baking, taking care of my plants, listening to 
  Explore all repositories → **https://github.com/alfarhana25?tab=repositories**
 
 ---
-## Currently Working On
 
-Low-Latency Voice AI Pipeline
-
-I’m building a local, GPU-accelerated voice assistant stack using Python, faster-whisper, CTranslate2, CUDA, Docker, Linux, and the Wyoming protocol.
-
-The project currently includes:
-
-Running Whisper locally for low-latency speech-to-text
-Rebuilding the default container with the correct CUDA runtime libraries, reducing transcription latency by roughly 3×
-Tuning model size and INT8 quantization to work within the limitations of Pascal-generation GPUs and approximately 1 GB of VRAM
-Validating that inference is actually running on the GPU using persistent VRAM allocation rather than relying on brief utilization spikes
-Connecting wake-word detection, speech-to-text, text-to-speech, and Home Assistant for real-time local voice command execution
-
-Basically, I’m trying to make my Home Assistant understand me quickly, privately, and without setting my GPU on fire.
-
-
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=footer" />
 </div>
