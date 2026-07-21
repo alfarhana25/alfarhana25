@@ -3,7 +3,7 @@
 </div>
 
 #  About Me:
-Hi, I'm **Al Farhana Siddique** — [role]. I enjoy building things with code and am always looking for new projects and challenges to grow my skills. In my free time you'll usually find me [hobbies/interests], and I'm also involved in [clubs/organizations].
+Hi, I'm **Al Farhana Siddique** — a Software Engineering student at the University of Calgary. I enjoy building things with code and am always looking for new projects and challenges to grow my skills. In my free time you'll usually find me [hobbies/interests], and I'm also involved in the ZOO (Electrical and Software Engineering Students' Society) and the Schulich Space Rover Team.
 
 ---
 
@@ -19,17 +19,14 @@ Hi, I'm **Al Farhana Siddique** — [role]. I enjoy building things with code an
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-
-
 ---
 
 ##  Featured Projects
-
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Project Name 1** |  description  | Tech, Tech, Tech |
-| **Project Name 2** |  description  | Tech, Tech, Tech |
-| **Project Name 3** |  description  | Tech, Tech, Tech |
+| **Automated Data-driven Animal Parameter Tuning (Capstone)** | Structured testing strategy for the RSO system covering GUI workflows, backend APIs, ML integration, and hardware communication; 300+ GUI test cases | Python, Pytest, Pytest-qt |
+| **Personality Shift Simulator** | Deep learning system predicting personality type and behavioral changes from simulated lifestyle interventions | Python, PyTorch, Scikit-learn, Pandas, NumPy |
+| **Obituary Portal** | Full-stack app with React frontend and AWS backend, integrating ChatGPT, Amazon Polly, and Cloudinary APIs | Python, React, Terraform, AWS Lambda, Netlify |
 
  Explore all repositories → **https://github.com/alfarhana25?tab=repositories**
 
@@ -40,11 +37,10 @@ Hi, I'm **Al Farhana Siddique** — [role]. I enjoy building things with code an
 
 ---
 
-##  upcoming projects
+##  Upcoming Projects
 
 
 ---
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=footer" />
