@@ -2,7 +2,7 @@
 
 
 #  About Me
-Hey, I’m **Al Farhana Siddique** 
+Hey, I’m **Al Farhana Siddique** 👋
 
 I’m a Software Engineering graduate from the University of Calgary who likes building practical projects, experimenting with new tools, and spending way too much time figuring out why something is not working.
 
