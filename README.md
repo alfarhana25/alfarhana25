@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Al+Farhana+Siddique;Software+Engineer+in+the+Making;Building+%7C+Learning+%7C+Growing" />
+ 
 </div>
 
 #  About Me:
