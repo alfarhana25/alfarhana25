@@ -1,4 +1,4 @@
-<div align="center"> <img src="./alfarhana25-profile-banner.svg" alt="Profile Banner" width="100%" />
+<div align="center"> <img src="./alfarhana25-profile-banner.svg" alt="Profile Banner" width="100%" /> </div>
 
 
 #  About Me
