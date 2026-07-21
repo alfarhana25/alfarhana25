@@ -32,9 +32,9 @@ Outside of coding, I’m usually baking, taking care of my plants, listening to 
 ##  Featured Projects
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Automated Data-driven Animal Parameter Tuning (Capstone)** | Structured testing strategy for the RSO system covering GUI workflows, backend APIs, ML integration, and hardware communication; 300+ GUI test cases | Python, Pytest, Pytest-qt |
-| **Personality Shift Simulator** | Deep learning system predicting personality type and behavioral changes from simulated lifestyle interventions | Python, PyTorch, Scikit-learn, Pandas, NumPy |
-| **Obituary Portal** | Full-stack app with React frontend and AWS backend, integrating ChatGPT, Amazon Polly, and Cloudinary APIs | Python, React, Terraform, AWS Lambda, Netlify |
+| **Automated Data-driven Animal Parameter Tuning (Capstone)** | Structured testing strategy for the RSO system covering GUI workflows, backend APIs, machine learning integration, and hardware communication; 300+ GUI test cases | Python, Pytest, Pytest-qt, Git, CI/CD |
+| **Personality Shift Simulator** | Machine learning system predicting personality type and behavioral changes from simulated lifestyle interventions | PyTorch, Scikit-learn, Pandas, NumPy, Jupyter |
+| **Obituary Portal** | Full-stack app with React frontend and AWS backend, integrating ChatGPT, Amazon Polly, and Cloudinary APIs | React, Node.js, AWS Lambda, Terraform, Netlify |
 
  Explore all repositories -> **https://github.com/alfarhana25?tab=repositories**
 
