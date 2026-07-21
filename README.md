@@ -38,7 +38,7 @@ Outside of coding, I’m usually baking, taking care of my plants, listening to 
 
  Explore all repositories -> **https://github.com/alfarhana25?tab=repositories**
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=footer" width="100%" />
