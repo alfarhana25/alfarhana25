@@ -37,7 +37,7 @@ Outside of coding, I’m usually baking, taking care of my plants, listening to 
 | **Personality Shift Simulator** | Deep learning system predicting personality type and behavioral changes from simulated lifestyle interventions | Python, PyTorch, Scikit-learn, Pandas, NumPy |
 | **Obituary Portal** | Full-stack app with React frontend and AWS backend, integrating ChatGPT, Amazon Polly, and Cloudinary APIs | Python, React, Terraform, AWS Lambda, Netlify |
 
- Explore all repositories → **https://github.com/alfarhana25?tab=repositories**
+ Explore all repositories -> **https://github.com/alfarhana25?tab=repositories**
 
 ---
 
