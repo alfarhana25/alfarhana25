@@ -3,7 +3,7 @@
 </div>
 
 #  About Me:
-Hi, I'm **Al Farhana Siddique** — [your role, e.g. "a software engineering student at ___"]. I enjoy building things with code and am always looking for new projects and challenges to grow my skills. In my free time you'll usually find me [hobbies/interests], and I'm also involved in [clubs/organizations, if any].
+Hi, I'm **Al Farhana Siddique** — [role]. I enjoy building things with code and am always looking for new projects and challenges to grow my skills. In my free time you'll usually find me [hobbies/interests], and I'm also involved in [clubs/organizations].
 
 ---
 
